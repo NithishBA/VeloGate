@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+redis
+pyjwt
+pydantic
+python-dotenv
+passlib[bcrypt]
+python-multipart
+python-jose[cryptography]
+websockets
+wsproto
